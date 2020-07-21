@@ -85,5 +85,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# ignore solution to exercise 
+REE_API_Data_Collection.ipynb
+
 # End of https://www.gitignore.io/api/linux,macos,windows,jupyternotebooks
 
